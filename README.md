@@ -1,1 +1,2 @@
 # EightBot_docs
+EightBotのドキュメントです。
