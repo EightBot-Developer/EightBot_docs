@@ -73,31 +73,42 @@ discord内でyoutubeで検索できます。
       <th>コマンド名</th>
       <th>引数1</th>
       <th>コマンドの説明</th>
+      <th>コマンドの使い方</th>
     </tr>
     <tr>
       <td>afk</td>
       <td>理由</td>
       <td>afkをセットします。</td>
+      <td>/afk reason: 理由</td>
     </tr>
     <tr>
       <td>ban_member</td>
       <td>引数無し</td>
       <td>Banされたメンバーの一覧を表示します。</td>
+      <td>/ban_member</td>
     </tr>
     <tr>
       <td>bot_info</td>
       <td>引数無し</td>
       <td>Botの情報を表示します。</td>
+      <td>/bot_info</td>
     </tr>
     <tr>
      <td>downcheck</td>
      <td>サービス名</td>
      <td>様々なサービスの障害状況が確認できます。</td>
+     <td>/downcheck name: サービス名</td>
     </tr>
+    <tr>
+     <td>start</td>
+     <td>選択肢からアクティビティーを選ぶ</td>
+     <td>アクティビティ(YouTubeなど)をスタートできます。</td>
+     <td>/start</td>
     <tr>
      <td>urlst</td>
      <td>短縮するURL</td>
      <td>urlを短縮できます。</td>
+     <td>/urlcheck url: チェックするurl</td>
     </tr>
     <tr>
      <td>voicetext</td>
