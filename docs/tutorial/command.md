@@ -145,11 +145,13 @@ discord内でyoutubeで検索できます。
      <td>voicetext</td>
      <td>声にする文字</td>
      <td>googleの声が出力できます。</td>
+     <td>/voicetext text: テキスト</td>
     </tr>
     <tr>
      <td>youtube</td>
      <td>検索内容</td>
      <td>discord内でyoutubeで検索できます。</td>
+     <td>/youtube word: 検索ワードorチャンネル名</td>
     </tr>
 </table>
 今後も追加していきます。 
