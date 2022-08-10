@@ -4,4 +4,6 @@ EightBotはスラッシュコマンドと通常のコマンドの両方に対応
 
 1.Bot_info コマンドは、EightBotの情報が見れます。<br>
 2.downcheckコマンドは、様々なサービスの障害状況が確認できます。
-![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)
+![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)<br>
+3.urlst    コマンドは、urlを短縮できます。(is.gdを使用しています。)
+![image](https://user-images.githubusercontent.com/57213007/183794174-ff589176-a866-4481-8807-bbc0dec15276.png)<br>
