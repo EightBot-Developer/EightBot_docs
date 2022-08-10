@@ -8,4 +8,6 @@
 そうしたら、「認証」をクリック。<br>
 <img src="https://user-images.githubusercontent.com/78240988/183604025-ce527671-0416-4e2b-86d3-8db85e2f7824.png" width="219" height="110"><br>
 そうしたら、チェックボックスが表示されるのでチェックボックスをクリックして、<br>「画像を選択してください」が表示されたら、指示に従って画像を選択してください。<br>
-![image](https://user-images.githubusercontent.com/78240988/183604762-6eca9d3e-8f35-48a8-a089-9b435679b84a.png)
+![image](https://user-images.githubusercontent.com/78240988/183604762-6eca9d3e-8f35-48a8-a089-9b435679b84a.png)<br>
+次のチュートリアル↓<br>
+[**コマンドの使い方 - チュートリアル**](/tutorial/command.md)<br>
