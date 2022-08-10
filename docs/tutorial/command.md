@@ -103,12 +103,43 @@ discord内でyoutubeで検索できます。
      <td>start</td>
      <td>選択肢からアクティビティーを選ぶ</td>
      <td>アクティビティ(YouTubeなど)をスタートできます。</td>
-     <td>/start</td>
+     <td>/start activity: 選択肢からアクティビティーを選ぶ</td
+      </tr>
+      <tr>
+       <td>timeout</td>
+       <td>ユーザー</td>
+       <td>ユーザーをタイムアウトします(分単位)</td>
+       <td>/timeout user: ユーザー minutes: タイムアウトしている時間 reason: タイムアウトする理由(無くてもよい)</td>
+      </tr>
+      <tr>
+       <td>un_timeout</td>
+       <td>ユーザー</td>
+       <td>ユーザーのタイムアウトを解除します。</td>
+       <td>/un_timeout user: ユーザー</td>
+      </tr>
+      <tr>
+       <td>un_timeout</td>
+       <td>ユーザー</td>
+       <td>ユーザーのタイムアウトを解除します。</td>
+       <td>/un_timeout user: ユーザー</td>
+      </tr>
+      <tr>
+       <td>urlcheck</td>
+       <td>チェックするurl</td>
+       <td>urlが安全かチェックします。</td>
+       <td>/urlcheck url: チェックするurl</td>
+      </tr>
+      <tr>
+       <td>verify</td>
+       <td>type</td>
+       <td>認証パネルを作成します。</td>
+       <td>/verify type: 足し算認証・引き算認証・掛け算認証・割り算認証から選ぶ role: ロール</td>
+      </tr>
     <tr>
      <td>urlst</td>
      <td>短縮するURL</td>
      <td>urlを短縮できます。</td>
-     <td>/urlcheck url: チェックするurl</td>
+     <td>/urlst url: 短縮するURL</td>
     </tr>
     <tr>
      <td>voicetext</td>
