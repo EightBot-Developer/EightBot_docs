@@ -71,4 +71,4 @@ discord内でyoutubeで検索できます。
      <td>discord内でyoutubeで検索できます。</td>
     </tr>
 </table>
-今後も追加していきます。
+今後も追加していきます。 
