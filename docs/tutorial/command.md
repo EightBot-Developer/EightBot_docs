@@ -20,5 +20,5 @@ discord内でyoutubeで検索できます。
 googleの声が出力できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183799269-05b03d8a-8b62-4991-a9f5-49da3499e167.png)
 # ban_member
-banされたメンバーを確認できます。
+banされたメンバーを確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183800015-599a63ed-f647-43a0-8294-d087d6f25e52.png)
