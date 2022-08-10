@@ -1,4 +1,5 @@
 # コマンドの使い方
+[コマンド表](#コマンド表)<br>
 EightBotはスラッシュコマンドと通常のコマンドの両方に対応しています。<br>
 このチュートリアルでは、スラッシュコマンドを使って説明します。<br>
 
@@ -22,3 +23,27 @@ googleの声が出力できます。<br>
 # ban_member
 banされたメンバーを確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183800015-599a63ed-f647-43a0-8294-d087d6f25e52.png)
+# コマンド表
+ <table>
+    <tr>
+      <th>コマンド名</th>
+      <th>引数1</th>
+      <th>コマンドの説明</th>
+    </tr>
+    <tr>
+      <td>afk</td>
+      <td>理由</td>
+      <td>afkをセットします。</td>
+    </tr>
+    <tr>
+      <td>ban_member</td>
+      <td>引数無し</td>
+      <td>Banされたメンバーの一覧を表示します。</td>
+    </tr>
+    <tr>
+      <td>bot_info</td>
+      <td>引数無し</td>
+      <td>Botの情報を表示します。</td>
+    </tr>
+</table>
+今後も追加していきます。
