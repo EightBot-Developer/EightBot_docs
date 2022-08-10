@@ -11,40 +11,61 @@ EightBotはスラッシュコマンドと通常のコマンドの両方に対応
 # ban_member
 banされたメンバーを確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183800015-599a63ed-f647-43a0-8294-d087d6f25e52.png)
-# Bot_info 
+## 使い方
+/ban_member
+# /bot_info  
 EightBotの情報が見れます。<br>
 ![image](https://user-images.githubusercontent.com/78240988/183837046-0bc3a79a-bf81-4294-9e86-cb56af4529b2.png)
+## 使い方
+/bot_info 
 # downcheck
 様々なサービスの障害状況が確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)
+## 使い方
+/downcheck name: サービス名
 # start
 アクティビティ(YouTubeなど)をスタートできます。<br>
 ![スクリーンショット 2022-08-10 122516](https://user-images.githubusercontent.com/57213007/183806942-3017d39d-f74f-4195-982a-72e21a39726e.png)
+## 使い方
+/start activity: 選択肢からアクティビティーを選ぶ
 # timeout
 ユーザーをタイムアウトします(分単位)<br>
 ![image](https://user-images.githubusercontent.com/78240988/183838312-b75f773d-9d8c-4702-a7b8-73ae6c8d4f99.png)
+## 使い方
+/timeout user: ユーザー minutes: タイムアウトしている時間 reason: タイムアウトする理由(無くてもよい)
 # un_timeout
 ユーザーのタイムアウトを解除します。<br>
 ![image](https://user-images.githubusercontent.com/78240988/183838652-46d73336-a9e9-4569-8572-0d499a3634e4.png)
+## 使い方
+/un_timeout user: ユーザー
 # urlcheck
 urlが安全かチェックします。<br>
 ![image](https://user-images.githubusercontent.com/78240988/183839157-6cb5d054-8e78-4b25-8a6c-092144a7f7d2.png)
+## 使い方
+/urlcheck url: チェックするurl
 # verify
 認証パネルを作成します。<br>
 ![image](https://user-images.githubusercontent.com/78240988/183839330-4f4b4ac1-3884-4b07-b1e8-c31f97abc464.png)<br>
 ![image](https://user-images.githubusercontent.com/78240988/183839516-35a4b990-0868-4acd-be9b-e9e32f7db3e4.png)<br>
 ![image](https://user-images.githubusercontent.com/78240988/183839560-5fffef46-a830-4489-be53-967037f66d04.png)<br>
 ![image](https://user-images.githubusercontent.com/78240988/183839578-546f10aa-cd19-4b83-93a4-b5910a6a7ca7.png)<br>
+## 使い方
+/verify type: 足し算認証・引き算認証・掛け算認証・割り算認証から選ぶ role: ロール
 # urlst
 urlを短縮できます。(is.gdを使用しています。)<br>
 ![image](https://user-images.githubusercontent.com/57213007/183794174-ff589176-a866-4481-8807-bbc0dec15276.png)
+## 使い方
+/urlst url: 短縮するURL
 # voicetext
 googleの声が出力できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183799269-05b03d8a-8b62-4991-a9f5-49da3499e167.png)
+## 使い方
+/voicetext text: テキスト
 # youtube
 discord内でyoutubeで検索できます。
 ![image](https://user-images.githubusercontent.com/57213007/183796608-122328db-ea59-480a-bb08-8294a528d71f.png)
-
+## 使い方
+/youtube word: 検索ワードorチャンネル名
 
 # コマンド表
  <table>
