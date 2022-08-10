@@ -8,7 +8,7 @@ EightBotはスラッシュコマンドと通常のコマンドの両方に対応
 3.urlst    コマンドは、urlを短縮できます。(is.gdを使用しています。)
 ![image](https://user-images.githubusercontent.com/57213007/183794174-ff589176-a866-4481-8807-bbc0dec15276.png)<br>
 # コマンド表
- <table border="1">
+ <table>
     <tr>
       <th>コマンド名</th>
       <th>引数1</th>
