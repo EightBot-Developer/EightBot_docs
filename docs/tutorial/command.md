@@ -10,7 +10,8 @@ EightBotはスラッシュコマンドと通常のコマンドの両方に対応
 banされたメンバーを確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183800015-599a63ed-f647-43a0-8294-d087d6f25e52.png)
 # Bot_info 
-EightBotの情報が見れます。
+EightBotの情報が見れます。<br>
+![image](https://user-images.githubusercontent.com/78240988/183837046-0bc3a79a-bf81-4294-9e86-cb56af4529b2.png)
 # downcheck
 様々なサービスの障害状況が確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)
