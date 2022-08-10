@@ -14,6 +14,9 @@ EightBotの情報が見れます。
 # downcheck
 様々なサービスの障害状況が確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)
+# start
+アクティビティ(YouTubeなど)をスタートできます。
+![スクリーンショット 2022-08-10 122516](https://user-images.githubusercontent.com/57213007/183806942-3017d39d-f74f-4195-982a-72e21a39726e.png)
 # urlst
 urlを短縮できます。(is.gdを使用しています。)<br>
 ![image](https://user-images.githubusercontent.com/57213007/183794174-ff589176-a866-4481-8807-bbc0dec15276.png)
