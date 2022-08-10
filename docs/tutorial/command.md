@@ -8,10 +8,27 @@ EightBotはスラッシュコマンドと通常のコマンドの両方に対応
 3.urlst    コマンドは、urlを短縮できます。(is.gdを使用しています。)
 ![image](https://user-images.githubusercontent.com/57213007/183794174-ff589176-a866-4481-8807-bbc0dec15276.png)<br>
 # コマンド表
-| コマンド名 | 引数1    | コマンドの説明                        | 
-| ---------- | -------- | ------------------------------------- | 
-| afk        | 理由     | afkをセットします。                   | 
-| ban_member | 引数無し | Banされたメンバーの一覧を表示します。 | 
-| bot_info   | 引数無し | Botの情報を表示します。               | 
-
+ <table border="1">
+    <tr>
+      <th>コマンド名</th>
+      <th>引数1</th>
+      <th>コマンドの説明</th>
+    </tr>
+    <tr>
+      <td>afk</td>
+      <td>理由</td>
+      <td>afkをセットします。</td>
+    </tr>
+    <tr>
+      <td>ban_member</td>
+      <td>引数無し</td>
+      <td>Banされたメンバーの一覧を表示します。</td>
+    </tr>
+    <tr>
+      <td>bot_info</td>
+      <td>引数無し</td>
+      <td>Botの情報を表示します。</td>
+    </tr>
+  </table>
+  
 今後も追加していきます。
