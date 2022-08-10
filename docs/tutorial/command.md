@@ -118,12 +118,6 @@ discord内でyoutubeで検索できます。
        <td>/un_timeout user: ユーザー</td>
       </tr>
       <tr>
-       <td>un_timeout</td>
-       <td>ユーザー</td>
-       <td>ユーザーのタイムアウトを解除します。</td>
-       <td>/un_timeout user: ユーザー</td>
-      </tr>
-      <tr>
        <td>urlcheck</td>
        <td>チェックするurl</td>
        <td>urlが安全かチェックします。</td>
