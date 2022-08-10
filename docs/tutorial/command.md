@@ -13,7 +13,7 @@ banされたメンバーを確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183800015-599a63ed-f647-43a0-8294-d087d6f25e52.png)
 ## 使い方
 /ban_member
-# /bot_info  
+# bot_info  
 EightBotの情報が見れます。<br>
 ![image](https://user-images.githubusercontent.com/78240988/183837046-0bc3a79a-bf81-4294-9e86-cb56af4529b2.png)
 ## 使い方
