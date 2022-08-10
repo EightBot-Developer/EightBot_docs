@@ -1,4 +1,6 @@
 # EightBot Docs
 EightBotのドキュメントです。<br>
-**リンク**<br>
-[Botを導入 - チュートリアル](/tutorial/botinvite.md)
+### リンク<br>
+**チュートリアル**<br>
+[**Botを導入 - チュートリアル**](/tutorial/botinvite.md)<br>
+[**コマンドの使い方 - チュートリアル**](/tutorial/command.md)<br>
