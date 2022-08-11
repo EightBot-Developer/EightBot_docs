@@ -21,7 +21,7 @@ EightBotの情報が見れます。<br>
 # bot_invite
 Eightbotを招待できます。<br>
 ## 使い方
-現在準備中...
+/bot_invite
 # downcheck
 様々なサービスの障害状況が確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)
