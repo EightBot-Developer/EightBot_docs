@@ -18,11 +18,19 @@ EightBotの情報が見れます。<br>
 ![image](https://user-images.githubusercontent.com/78240988/183837046-0bc3a79a-bf81-4294-9e86-cb56af4529b2.png)
 ## 使い方
 /bot_info 
+# bot_invite
+Eightbotを招待できます。<br>
+## 使い方
+現在準備中...
 # downcheck
 様々なサービスの障害状況が確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)
 ## 使い方
 /downcheck name: サービス名
+# role_all_add
+全員にロールを付与します。
+## 使い方
+現在準備中...
 # start
 アクティビティ(YouTubeなど)をスタートできます。<br>
 ![スクリーンショット 2022-08-10 122516](https://user-images.githubusercontent.com/57213007/183806942-3017d39d-f74f-4195-982a-72e21a39726e.png)
@@ -66,7 +74,6 @@ discord内でyoutubeで検索できます。
 ![image](https://user-images.githubusercontent.com/57213007/183796608-122328db-ea59-480a-bb08-8294a528d71f.png)
 ## 使い方
 /youtube word: 検索ワードorチャンネル名
-
 # コマンド表
  <table>
     <tr>
