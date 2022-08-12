@@ -1,3 +1,3 @@
 # EightBot_docs
-EightBotのドキュメントです。
+EightBotのドキュメントです。<br>
 url: https://Eightbot-docs.f5.si/
