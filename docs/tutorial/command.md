@@ -3,16 +3,29 @@
 EightBotはスラッシュコマンドと通常のコマンドの両方に対応しています。<br>
 このチュートリアルでは、スラッシュコマンドを使って説明します。<br>
 
+# 5000
+5000兆円ほしい！を生成します。([CyberRex](https://github.com/CyberRex0)さんの[5000choyen-api](https://github.com/CyberRex0/5000choyen-api)を使用しています。)<br>
+![image](https://user-images.githubusercontent.com/78240988/184292342-49553fb0-67e6-437c-80c4-929a8b3f3279.png)
+## 使い方
+/5000 top: 上の文字 bottom: 下の文字
 # afk
 席を離れる時に使えます<br>
 ![image](https://user-images.githubusercontent.com/57213007/183798716-785c5f81-4f00-4c91-a963-e9279c955fa5.png)
 ## 使い方
 /afk reason: 理由
+# akinator
+![image](https://user-images.githubusercontent.com/78240988/184292685-b6918a9a-fd31-4024-850e-bdcdf8f4481e.png)<br>
+![image](https://user-images.githubusercontent.com/78240988/184292789-af421b2c-2cd2-411d-aa77-6fd797a8e7da.png)
+## 使い方
+/akinator
 # ban_member
 banされたメンバーを確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183800015-599a63ed-f647-43a0-8294-d087d6f25e52.png)
 ## 使い方
 /ban_member
+# blackjack
+ブラックジャックが出来ます。(今は英語ですが今後日本語に対応します。)
+![image](https://user-images.githubusercontent.com/78240988/184300194-7dccf4d9-1e28-41ac-9625-42d0a9ebb909.png)
 # bot_info  
 EightBotの情報が見れます。<br>
 ![image](https://user-images.githubusercontent.com/78240988/183837046-0bc3a79a-bf81-4294-9e86-cb56af4529b2.png)
