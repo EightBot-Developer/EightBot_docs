@@ -32,9 +32,11 @@ EightBotの情報が見れます。<br>
 ## 使い方
 /bot_info 
 # bot_invite
-Eightbotを招待できます。<br>
+いろいろなBotを招待できます。<br>
+![image](https://user-images.githubusercontent.com/78240988/184335824-ec378015-60ba-46b8-8ffb-a7e743c4486b.png)
 ## 使い方
-/bot_invite
+/bot_invite 
+/bot_invite bot: 
 # downcheck
 様々なサービスの障害状況が確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)
