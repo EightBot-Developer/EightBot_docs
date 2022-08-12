@@ -24,7 +24,7 @@ banされたメンバーを確認できます。<br>
 ## 使い方
 /ban_member
 # blackjack
-ブラックジャックが出来ます。(今は英語ですが今後日本語に対応します。)
+ブラックジャックが出来ます。(今は英語ですが今後日本語に対応します。)<br>
 ![image](https://user-images.githubusercontent.com/78240988/184300194-7dccf4d9-1e28-41ac-9625-42d0a9ebb909.png)
 # bot_info  
 EightBotの情報が見れます。<br>
@@ -94,6 +94,12 @@ discord内でyoutubeで検索できます。
       <th>引数1</th>
       <th>コマンドの説明</th>
       <th>コマンドの使い方</th>
+    </tr>
+     <tr>
+      <td>5000</td>
+      <td>top</td>
+      <td>5000兆円ほしい！を生成します。</td>
+      <td>/5000 top: 上の文字 bottom: 下の文字</td>
     </tr>
     <tr>
       <td>afk</td>
