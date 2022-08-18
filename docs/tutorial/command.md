@@ -42,6 +42,9 @@ EightBotの情報が見れます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)
 ## 使い方
 /downcheck name: サービス名
+# embed
+embedを作成します。
+
 # role_all_add
 全員にロールを付与します。
 ## 使い方
@@ -51,6 +54,11 @@ EightBotの情報が見れます。<br>
 ![スクリーンショット 2022-08-10 122516](https://user-images.githubusercontent.com/57213007/183806942-3017d39d-f74f-4195-982a-72e21a39726e.png)
 ## 使い方
 /start activity: 選択肢からアクティビティーを選ぶ
+# totusi
+突然の死を生成します。<br>
+![image](https://user-images.githubusercontent.com/57213007/185379608-0ce1e844-f246-4de5-b8e0-41540978e38a.png)
+## 使い方
+/totusi text: テキスト
 # timeout
 ユーザーをタイムアウトします(分単位)<br>
 ![image](https://user-images.githubusercontent.com/78240988/183838312-b75f773d-9d8c-4702-a7b8-73ae6c8d4f99.png)
