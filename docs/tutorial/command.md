@@ -43,8 +43,10 @@ EightBotの情報が見れます。<br>
 ## 使い方
 /downcheck name: サービス名
 # embed
-embedを作成します。
-
+embedを作成します。<br>
+![image](https://user-images.githubusercontent.com/57213007/185721303-9f259234-844d-4cb8-97f7-01ed0974784f.png)
+![image](https://user-images.githubusercontent.com/57213007/185721369-4f4bc1d9-2c39-4b90-ba3a-84a7b52365f1.png)
+![image](https://user-images.githubusercontent.com/57213007/185721386-62d0a8eb-4166-4b60-90d9-896b96e6e1cd.png)
 # role_all_add
 全員にロールを付与します。
 ## 使い方
