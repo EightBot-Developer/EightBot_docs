@@ -14,7 +14,8 @@ EightBotはスラッシュコマンドと通常のコマンドの両方に対応
 ## 使い方
 /afk reason: 理由
 # akinator
-![image](https://user-images.githubusercontent.com/78240988/184292685-b6918a9a-fd31-4024-850e-bdcdf8f4481e.png)<br>
+アキネーターがプレイできます。<br>
+![image](https://user-images.githubusercontent.com/78240988/184292685-b6918a9a-fd31-4024-850e-bdcdf8f4481e.png)
 ![image](https://user-images.githubusercontent.com/78240988/184292789-af421b2c-2cd2-411d-aa77-6fd797a8e7da.png)
 ## 使い方
 /akinator
@@ -26,6 +27,8 @@ banされたメンバーを確認できます。<br>
 # blackjack
 ブラックジャックが出来ます。(今は英語ですが今後日本語に対応します。)<br>
 ![image](https://user-images.githubusercontent.com/78240988/184300194-7dccf4d9-1e28-41ac-9625-42d0a9ebb909.png)
+## 使い方
+/blackjack
 # bot_info  
 EightBotの情報が見れます。<br>
 ![image](https://user-images.githubusercontent.com/78240988/183837046-0bc3a79a-bf81-4294-9e86-cb56af4529b2.png)
@@ -36,7 +39,7 @@ EightBotの情報が見れます。<br>
 ![image](https://user-images.githubusercontent.com/78240988/184335824-ec378015-60ba-46b8-8ffb-a7e743c4486b.png)
 ## 使い方
 /bot_invite
-/bot_invite bot:
+/bot_invite bot:招待したいBotのid or メンション
 # downcheck
 様々なサービスの障害状況が確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)
@@ -50,22 +53,22 @@ embedを作成します。<br>
 ## 使い方
 /embed
 # mojiaidaspace
-一文字ごとに空白(スペース)を入れます。
+一文字ごとに空白(スペース)を入れます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/186366267-75522aae-5044-4352-b4e8-6ab5458bc809.png)
 ## 使い方
-/mojiaidaspace text: 
+/mojiaidaspace text: テキスト
 # role_all_add
 全員にロールを付与します。<br>
 ![image](https://user-images.githubusercontent.com/57213007/186367409-3dd000a7-5995-4b42-8f81-b71bf98b7bf7.png)
 ![image](https://user-images.githubusercontent.com/57213007/186367446-4af44a7a-cefe-4b79-af9b-730ad5bad3d2.png)
 ## 使い方
-/role_all_add role: 
+/role_all_add role: ロール
 # role_all_remove
 全員からロールをはく奪します。<br>
 ![image](https://user-images.githubusercontent.com/57213007/186367746-b3bc5f0f-7018-43cb-a0e5-ac703d4007ff.png)
 ![image](https://user-images.githubusercontent.com/57213007/186367770-c34e6d9b-f081-4790-9538-a9da05793c54.png)
 ## 使い方
-/role_all_remove role:
+/role_all_remove role: ロール
 # start
 アクティビティ(YouTubeなど)をスタートできます。<br>
 ![スクリーンショット 2022-08-10 122516](https://user-images.githubusercontent.com/57213007/183806942-3017d39d-f74f-4195-982a-72e21a39726e.png)
@@ -134,24 +137,66 @@ discord内でyoutubeで検索できます。
       <td>afkをセットします。</td>
       <td>/afk reason: 理由</td>
     </tr>
+ <tr>
+  <td>akinator</td>
+  <td>引数無し</td>
+  <td>アキネーターがプレイできます。</td>
+  <td>/akinator</td>
+ </tr>
     <tr>
       <td>ban_member</td>
       <td>引数無し</td>
       <td>Banされたメンバーの一覧を表示します。</td>
       <td>/ban_member</td>
     </tr>
+ <tr>
+  <td>blackjack</td>
+  <td>引数無し</td>
+  <td>ブラックジャックが出来ます。</td>
+  <td>/blackjack</td>
+ </tr>
     <tr>
       <td>bot_info</td>
       <td>引数無し</td>
       <td>Botの情報を表示します。</td>
       <td>/bot_info</td>
     </tr>
+ <tr>
+  <td>bot_invite</td>
+  <td>bot</td>
+  <td>いろいろなBotを招待できます。</td>
+  <td>/bot_invite or /bot_invite bot:</td>
+ </tr>
     <tr>
      <td>downcheck</td>
      <td>サービス名</td>
      <td>様々なサービスの障害状況が確認できます。</td>
      <td>/downcheck name: サービス名</td>
-    </tr>
+  </tr>
+ <tr>
+  <td>embed</td>
+  <td>引数無し</td>
+  <td>embedを作成します。 </td>
+  <td>/embed</td>
+ </tr>
+  <tr>
+  <td>mojiaidaspace</td>
+  <td>text</td>
+  <td>一文字ごとに空白(スペース)を入れます。 </td>
+  <td>/mojiaidaspace text:テキスト</td>
+ </tr>
+ <tr>
+  <td>role_all_add</td>
+  <td>role</td>
+  <td> 全員にロールを付与します。 </td>
+  <td> /role_all_add role: ロール</td>
+ </tr>
+ <tr>
+  <td>role_all_remove</td>
+  <td>role</td>
+  <td> 全員からロールをはく奪します。 </td>
+  <td> /role_all_remove role: ロール</td>
+ </tr>
     <tr>
      <td>start</td>
      <td>選択肢からアクティビティーを選ぶ</td>
