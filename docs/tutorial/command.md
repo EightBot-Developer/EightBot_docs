@@ -15,7 +15,7 @@ EightBotはスラッシュコマンドと通常のコマンドの両方に対応
 /afk reason: 理由
 # akinator
 アキネーターがプレイできます。<br>
-![image](https://user-images.githubusercontent.com/78240988/184292685-b6918a9a-fd31-4024-850e-bdcdf8f4481e.png)
+![image](https://user-images.githubusercontent.com/78240988/184292685-b6918a9a-fd31-4024-850e-bdcdf8f4481e.png)<br>
 ![image](https://user-images.githubusercontent.com/78240988/184292789-af421b2c-2cd2-411d-aa77-6fd797a8e7da.png)
 ## 使い方
 /akinator
