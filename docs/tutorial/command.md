@@ -251,6 +251,6 @@ discord内でyoutubeで検索できます。
      <td>discord内でyoutubeで検索できます。</td>
      <td>/youtube word: 検索ワードorチャンネル名</td>
     </tr>
-</table>
+ </table>
 今後も追加していきます。 
 人材不足です()
