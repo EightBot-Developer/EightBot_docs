@@ -203,6 +203,12 @@ discord内でyoutubeで検索できます。
      <td>アクティビティ(YouTubeなど)をスタートできます。</td>
      <td>/start activity: 選択肢からアクティビティーを選ぶ</td
       </tr>
+ <tr>
+  <td>totusi</td>
+  <td>text</td>
+  <td> 突然の死を生成します。 </td>
+  <td>/totusi text: テキスト</td>
+ </tr>
       <tr>
        <td>timeout</td>
        <td>ユーザー</td>
@@ -248,3 +254,4 @@ discord内でyoutubeで検索できます。
 </table>
  
 今後も追加していきます。 
+人材不足です()
