@@ -1,6 +1,6 @@
 # コマンドの使い方
 [コマンド表](#コマンド表)<br>
-EightBotはスラッシュコマンドと通常のコマンドの両方に対応しています。<br>
+EightBotはスラッシュコマンドと通常のコマンドの両方に対応しています。(2023年までにスラッシュコマンドに以降します。)<br>
 このチュートリアルでは、スラッシュコマンドを使って説明します。<br>
 
 # 5000
@@ -35,7 +35,8 @@ EightBotの情報が見れます。<br>
 いろいろなBotを招待できます。<br>
 ![image](https://user-images.githubusercontent.com/78240988/184335824-ec378015-60ba-46b8-8ffb-a7e743c4486b.png)
 ## 使い方
-/bot_invite bot: 
+/bot_invite
+/bot_invite bot:
 # downcheck
 様々なサービスの障害状況が確認できます。<br>
 ![image](https://user-images.githubusercontent.com/57213007/183793847-afd32a12-93d4-426c-ad49-3242a9846a86.png)
@@ -46,10 +47,25 @@ embedを作成します。<br>
 ![image](https://user-images.githubusercontent.com/57213007/185721303-9f259234-844d-4cb8-97f7-01ed0974784f.png)
 ![image](https://user-images.githubusercontent.com/57213007/185721369-4f4bc1d9-2c39-4b90-ba3a-84a7b52365f1.png)
 ![image](https://user-images.githubusercontent.com/57213007/185721386-62d0a8eb-4166-4b60-90d9-896b96e6e1cd.png)
-# role_all_add
-全員にロールを付与します。
 ## 使い方
-現在準備中...
+/embed
+# mojiaidaspace
+一文字ごとに空白(スペース)を入れます。
+![image](https://user-images.githubusercontent.com/57213007/186366267-75522aae-5044-4352-b4e8-6ab5458bc809.png)
+## 使い方
+/mojiaidaspace text: 
+# role_all_add
+全員にロールを付与します。<br>
+![image](https://user-images.githubusercontent.com/57213007/186367409-3dd000a7-5995-4b42-8f81-b71bf98b7bf7.png)
+![image](https://user-images.githubusercontent.com/57213007/186367446-4af44a7a-cefe-4b79-af9b-730ad5bad3d2.png)
+## 使い方
+/role_all_add role: 
+# role_all_remove
+全員からロールをはく奪します。<br>
+![image](https://user-images.githubusercontent.com/57213007/186367746-b3bc5f0f-7018-43cb-a0e5-ac703d4007ff.png)
+![image](https://user-images.githubusercontent.com/57213007/186367770-c34e6d9b-f081-4790-9538-a9da05793c54.png)
+## 使い方
+/role_all_remove role:
 # start
 アクティビティ(YouTubeなど)をスタートできます。<br>
 ![スクリーンショット 2022-08-10 122516](https://user-images.githubusercontent.com/57213007/183806942-3017d39d-f74f-4195-982a-72e21a39726e.png)
