@@ -75,7 +75,7 @@ embedを作成します。<br>
 ## 使い方
 /start activity: 選択肢からアクティビティーを選ぶ
 # totusi
-突然の死を生成します。<br>
+突然の死を生成します。([taqm](https://github.com/taqm)さんの[totsuzen-text](https://github.com/taqm/totsuzen-text)を使用しています。)<br>
 ![image](https://user-images.githubusercontent.com/57213007/185379608-0ce1e844-f246-4de5-b8e0-41540978e38a.png)
 ## 使い方
 /totusi text: テキスト
