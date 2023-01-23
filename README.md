@@ -1,4 +1,5 @@
 # EightBot_docs
-EightBotのドキュメントです。<br>
+
+EightBot のドキュメントです。<br>
 url: https://Eightbot-docs.f5.si/<br>
-v2がリリースされたら、アーカイブされます
+v2 がリリースされたら、アーカイブされます
